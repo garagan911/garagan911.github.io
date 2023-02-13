@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8afa6991.chunk.css",
-    "main.js": "/static/js/main.6e155dce.chunk.js",
-    "main.js.map": "/static/js/main.6e155dce.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ccc915ad.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ccc915ad.js.map",
-    "static/css/2.713cb82c.chunk.css": "/static/css/2.713cb82c.chunk.css",
-    "static/js/2.154ca103.chunk.js": "/static/js/2.154ca103.chunk.js",
-    "static/js/2.154ca103.chunk.js.map": "/static/js/2.154ca103.chunk.js.map",
-    "static/js/3.173cd2ae.chunk.js": "/static/js/3.173cd2ae.chunk.js",
-    "static/js/3.173cd2ae.chunk.js.map": "/static/js/3.173cd2ae.chunk.js.map",
+    "main.css": "/static/css/main.e1f2bb6b.css",
+    "main.js": "/static/js/main.4e27ac99.js",
+    "static/js/243.27f99406.chunk.js": "/static/js/243.27f99406.chunk.js",
+    "static/js/180.737eab2d.chunk.js": "/static/js/180.737eab2d.chunk.js",
+    "static/js/119.10d2feb0.chunk.js": "/static/js/119.10d2feb0.chunk.js",
+    "static/js/525.c385f4aa.chunk.js": "/static/js/525.c385f4aa.chunk.js",
+    "static/js/97.387ac779.chunk.js": "/static/js/97.387ac779.chunk.js",
+    "static/js/976.a30e430c.chunk.js": "/static/js/976.a30e430c.chunk.js",
+    "static/js/733.dedc3f6d.chunk.js": "/static/js/733.dedc3f6d.chunk.js",
+    "static/js/63.d11cb762.chunk.js": "/static/js/63.d11cb762.chunk.js",
+    "static/js/522.c14eb893.chunk.js": "/static/js/522.c14eb893.chunk.js",
+    "static/js/499.69493c64.chunk.js": "/static/js/499.69493c64.chunk.js",
+    "static/js/634.58826585.chunk.js": "/static/js/634.58826585.chunk.js",
     "index.html": "/index.html",
-    "static/css/2.713cb82c.chunk.css.map": "/static/css/2.713cb82c.chunk.css.map",
-    "static/css/main.8afa6991.chunk.css.map": "/static/css/main.8afa6991.chunk.css.map",
-    "static/js/2.154ca103.chunk.js.LICENSE.txt": "/static/js/2.154ca103.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ddae9b1b.woff"
+    "static/media/google.svg": "/static/media/google.b7da2ce748745374ee27eb11dd475b9c.svg",
+    "static/media/twitter.svg": "/static/media/twitter.5b9c9738bc8e86846c91f27886cebacf.svg",
+    "static/media/facebook.svg": "/static/media/facebook.5b823a6232805871728da1033d817609.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccc915ad.js",
-    "static/css/2.713cb82c.chunk.css",
-    "static/js/2.154ca103.chunk.js",
-    "static/css/main.8afa6991.chunk.css",
-    "static/js/main.6e155dce.chunk.js"
+    "static/css/main.e1f2bb6b.css",
+    "static/js/main.4e27ac99.js"
   ]
 }
