@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'AktivGrotesk-Regular';
+    src:
+    url('./css/fonts/Aktiv_Grotesk/AktivGrotesk-Regular.woff') format('woff'),
+    url('./css/fonts/Aktiv_Grotesk/AktivGrotesk-Regular.otf') format('truetype');
+    font-weight:400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'AktivGrotesk-Medium';
+    src:
+    url('./css/fonts/Aktiv_Grotesk/AktivGrotesk-Medium.woff') format('woff'),
+     url('./css/fonts/Aktiv_Grotesk/AktivGrotesk-Medium.otf') format('truetype');
+    font-weight:500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Aktiv Grotesk Corp';
+    src:
+    url('./css/fonts/Aktiv_Grotesk/Aktiv Grotesk Corp.woff') format('woff'),
+     url('./css/fonts/Aktiv_Grotesk/Aktiv Grotesk Corp.ttf') format('truetype');
+    font-weight:500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AktivGrotesk-Bold';
+    src:
+    url('./css/fonts/Aktiv_Grotesk/AktivGrotesk-Bold.woff') format('woff'),
+     url('./css/fonts/Aktiv_Grotesk/AktivGrotesk-Bold.otf') format('truetype');
+    font-weight:700;
+    font-style: normal;
+}

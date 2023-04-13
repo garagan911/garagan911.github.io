@@ -1,0 +1,52 @@
+%flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+%btn-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    @media (max-width: 550px) {
+        gap: 15x;
+        flex-direction: column;
+     }
+
+}
+%btn-style {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+    border-radius: 20px;
+    text-decoration: none;
+    max-width: 180px;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s;
+  
+    &:hover {
+        transform: scale(1.03);
+        //filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+    } 
+}
+    %display-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+    
+    %text {
+        font-family: 'DM Sans';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 150%;
+        text-align: center;
+        color: #5F5C70;
+    }
