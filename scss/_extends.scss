@@ -29,11 +29,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: transform 0.3s;
+    transition: 0.8s;
   
     &:hover {
-        transform: scale(1.03);
-        //filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
+        transform: scale(1.1);
+        filter: drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));
     } 
 }
     %display-center {
