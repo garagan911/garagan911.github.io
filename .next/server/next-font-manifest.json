@@ -1,0 +1,13 @@
+{
+  "pages": {},
+  "app": {
+    "/Users/oleksandr/Downloads/upwork-jmax-master/node_modules/next/font/google/target.css?{\"path\":\"app/fonts.ts\",\"import\":\"Montserrat\",\"arguments\":[{\"weight\":[\"400\",\"500\",\"600\",\"700\",\"800\",\"900\"],\"subsets\":[\"latin\"],\"display\":\"swap\",\"variable\":\"--font-montserrat\"}],\"variableName\":\"montserrat\"}": [
+      "static/media/1060bab20f18b5c2-s.p.woff2"
+    ],
+    "/Users/oleksandr/Downloads/upwork-jmax-master/node_modules/next/font/local/target.css?{\"path\":\"app/fonts.ts\",\"import\":\"\",\"arguments\":[{\"src\":\"../fonts/Donpoligrafbum-Bold.otf\",\"display\":\"swap\",\"variable\":\"--font-donpoligrafbum\"}],\"variableName\":\"donpoligrafbum\"}": [
+      "static/media/f732ccb969dc853b-s.p.otf"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}
